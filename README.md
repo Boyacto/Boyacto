@@ -3,10 +3,7 @@ I build clean, offline-friendly web apps and ship fast under constraints.
 
 ## Highlights
 - **Offline Wiki Engine** — Air-gapped wiki (IndexedDB + Service Worker), template propagation, 20-version diff/restore UI.
-- **DSA Patterns** — Problem-solving by patterns with TS tests (two-pointers, sliding window, graph, DP).
-- **Tidy CRUD** — Minimal Next.js + Prisma + SQLite CRUD with unit/e2e tests and CI.
-- **UI Components Lab** — Accessible React components with Storybook and tests.
-- **Algo Visualizers** — Sorting & pathfinding visual demos (React/TS).
+- **Love Capsule App** — Flutter-based romantic love capsule app that creates personalized digital time capsules with countdown timers, love letters, photo galleries for celebrating relationships and special occasions.
 
 ## Tech
 TypeScript, React/Next.js, Node.js, Prisma/SQLite, IndexedDB, Service Worker, Jest/Playwright, GitHub Actions
